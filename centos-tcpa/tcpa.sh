@@ -1,5 +1,6 @@
 #!/bin/sh
 #喜欢记得收藏一下 www.kxxzz.com
+
 PATH=$PATH:/sbin:/usr/sbin:/usr/local/sbin:$HOME/bin:/usr/local/bin:/usr/bin
 export PATH
 export LANG=en_US.UTF-8
